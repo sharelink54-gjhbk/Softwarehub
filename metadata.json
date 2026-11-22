@@ -1,0 +1,6 @@
+{
+  "name": "Software Hub",
+  "description": "Digital software storefront for verified desktop licenses, engineering suites, and instant offline-ready order fulfillment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
